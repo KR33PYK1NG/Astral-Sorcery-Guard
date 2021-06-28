@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "astral-sorcery-guard.refmap.json",
+    "package": "rmc.mixins.astral_sorcery_guard.inject",
+    "mixins": [
+        "TileLensMixin"
+    ]
+}
